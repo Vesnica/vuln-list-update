@@ -77,7 +77,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "http://lists.opensuse.org/opensuse-updates/2015-04/msg00056.html"
         }
       ],
       "References": [
@@ -110,7 +117,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "http://lists.opensuse.org/opensuse-updates/2015-04/msg00056.html"
         }
       ],
       "References": [
@@ -143,7 +157,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "http://lists.opensuse.org/opensuse-updates/2015-04/msg00056.html"
         }
       ],
       "References": [

@@ -191,7 +191,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -246,7 +253,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -321,7 +335,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Description": "important"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -376,7 +397,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Description": "important"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -435,7 +463,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Description": "important"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -494,7 +529,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -561,7 +603,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -616,7 +665,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -683,7 +739,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Description": "low"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -738,7 +801,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -793,7 +863,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -848,7 +925,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -903,7 +987,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -958,7 +1049,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -1013,7 +1111,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Description": "low"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -1068,7 +1173,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Description": "low"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -1123,7 +1235,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Description": "important"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -1178,7 +1297,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -1233,7 +1359,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "low"
+          "Description": "low"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [
@@ -1288,7 +1421,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20193295-1/"
         }
       ],
       "References": [

@@ -41,17 +41,24 @@ type Revision struct {
 }
 
 type Vulnerability struct {
-	CVE             string      `xml:"CVE"`
-	Description     string      `xml:"Notes>Note"`
-	Threats         []Threat    `xml:"Threats>Threat"`
-	References      []Reference `xml:"References>Reference"`
-	ProductStatuses []Status    `xml:"ProductStatuses>Status"`
-	CVSSScoreSets   ScoreSet    `xml:"CVSSScoreSets>ScoreSet" json:",omitempty"`
+	CVE             string        `xml:"CVE"`
+	Description     string        `xml:"Notes>Note"`
+	Threats         []Threat      `xml:"Threats>Threat"`
+	Remediations    []Remediation `xml:"Remediations>Remediation"`
+	References      []Reference   `xml:"References>Reference"`
+	ProductStatuses []Status      `xml:"ProductStatuses>Status"`
+	CVSSScoreSets   ScoreSet      `xml:"CVSSScoreSets>ScoreSet" json:",omitempty"`
 }
 
 type Threat struct {
-	Type     string `xml:"Type,attr"`
-	Severity string `xml:"Description"`
+	Type        string `xml:"Type,attr"`
+	Description string `xml:"Description"`
+}
+
+type Remediation struct {
+	Type        string `xml:"Type,attr"`
+	Description string `xml:"Description"`
+	URL         string `xml:"URL"`
 }
 
 type Reference struct {

@@ -147,7 +147,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "http://lists.opensuse.org/opensuse-security-announce/2018-06/msg00022.html"
         }
       ],
       "References": [

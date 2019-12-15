@@ -236,7 +236,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "important"
+          "Description": "important"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2018/suse-su-20181784-1/"
         }
       ],
       "References": [

@@ -131,7 +131,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "https://www.suse.com/support/update/announcement/2019/suse-su-20191608-1/"
         }
       ],
       "References": [

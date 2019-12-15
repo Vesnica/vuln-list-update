@@ -197,7 +197,14 @@
       "Threats": [
         {
           "Type": "Impact",
-          "Severity": "moderate"
+          "Description": "moderate"
+        }
+      ],
+      "Remediations": [
+        {
+          "Type": "Vendor Fix",
+          "Description": "Please Install the update.",
+          "URL": "http://lists.opensuse.org/opensuse-updates/2015-02/msg00028.html"
         }
       ],
       "References": [
